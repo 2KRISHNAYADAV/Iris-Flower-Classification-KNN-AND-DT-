@@ -2,6 +2,50 @@
 
 This project performs classification on the famous **Iris flower dataset** using two popular machine learning algorithms: **K-Nearest Neighbors (KNN)** and **Decision Tree (DT)**.
 
+{
+
+
+# 🌸 Iris Flower Classification
+![Screenshot 2025-05-19 201752](https://github.com/user-attachments/assets/35182703-3132-44d0-8ad3-58994f74f061)
+
+This project is part of the **SkillHIGH Minor Project** for internship training. It focuses on building a machine learning model to classify iris flowers into three species—Setosa, Versicolor, and Virginica—based on their morphological features.
+
+## 📊 Dataset
+
+The classic [Iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) comprises 150 samples, with 50 samples each from three species. Each sample includes the following features:([Wikipedia][1])
+
+* Sepal Length (cm)
+* Sepal Width (cm)
+* Petal Length (cm)
+* Petal Width (cm)([GitHub][2])
+
+## 🧠 Algorithms Implemented
+
+* **K-Nearest Neighbors (KNN)**: Classifies data points based on the majority label among the nearest neighbors.
+* **Decision Tree**: Builds a model by splitting the dataset at each node based on feature values.
+
+## 📈 Evaluation Metrics
+
+To assess the performance of the classification models, the following metrics are used:
+
+* **Accuracy**: Measures the overall correctness of the model.
+* **Confusion Matrix**: Provides insight into the true vs. predicted classifications.
+* **Precision, Recall, and F1-Score**: Offer a detailed evaluation of the model's performance, especially in imbalanced datasets.
+
+## 🛠️ Technologies Used
+
+* **Python**: Core programming language for implementation.
+* **Pandas**: Data manipulation and analysis.
+* **NumPy**: Numerical computations.
+* **Matplotlib & Seaborn**: Data visualization.
+* **Scikit-learn**: Machine learning algorithms and evaluation metrics.([DataFlair][3], [GitHub][4])
+
+
+
+
+
+}
+
 > 📍 [Check out the original notebook on Kaggle](https://www.kaggle.com/code/krishnayadav456wrsty/iris-flower-classification-knn-and-dt/)
 
 ## 📊 Dataset
