@@ -12,12 +12,10 @@ This project is part of the **SkillHIGH Minor Project** for internship training.
 
 ## 📊 Dataset
 
-The classic [Iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) comprises 150 samples, with 50 samples each from three species. Each sample includes the following features:([Wikipedia][1])
-
 * Sepal Length (cm)
 * Sepal Width (cm)
 * Petal Length (cm)
-* Petal Width (cm)([GitHub][2])
+* Petal Width (cm)
 
 ## 🧠 Algorithms Implemented
 
@@ -38,7 +36,7 @@ To assess the performance of the classification models, the following metrics ar
 * **Pandas**: Data manipulation and analysis.
 * **NumPy**: Numerical computations.
 * **Matplotlib & Seaborn**: Data visualization.
-* **Scikit-learn**: Machine learning algorithms and evaluation metrics.([DataFlair][3], [GitHub][4])
+* **Scikit-learn**: Machine learning algorithms and evaluation metrics.
 
 
 
@@ -60,7 +58,7 @@ The Iris dataset contains 150 samples of iris flowers from three different speci
 
 ---
 
-![download](https://github.com/user-attachments/assets/7c787459-d78d-41de-8025-9f533cfe2867)
+
 
 
 ## 🔍 Objective
